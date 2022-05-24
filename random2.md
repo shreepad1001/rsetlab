@@ -1,7 +1,7 @@
 <h1> big header  </h1>
 
 <body>
-  <marque> hellwo </marque>
+  <marquee> hellwo </marquee>
   <br>
 <p1>this is a random line </p1>
 
